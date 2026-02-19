@@ -33,7 +33,7 @@ public class Main {
    */
   public static void main(String []args)
   {
-	  Persona myPerson = new Persona("Pablo",100);
+	  Persona myPerson = new Persona("Alejandro",100);
 	  myPerson.saludar();
 	  System.out.println(myPerson.getEdad());
   }
