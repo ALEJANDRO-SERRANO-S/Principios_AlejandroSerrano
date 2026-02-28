@@ -1,4 +1,4 @@
-ass Humano implements Trabajable,Comible{
+class Humano implements Trabajable,Comible{
 public void trabajar(){
 System.out.println("Trabajando...");
 }
