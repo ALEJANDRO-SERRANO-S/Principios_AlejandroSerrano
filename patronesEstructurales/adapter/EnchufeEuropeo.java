@@ -1,3 +1,0 @@
-interface EnchufeEuropeo {
-	void conectar();
-}

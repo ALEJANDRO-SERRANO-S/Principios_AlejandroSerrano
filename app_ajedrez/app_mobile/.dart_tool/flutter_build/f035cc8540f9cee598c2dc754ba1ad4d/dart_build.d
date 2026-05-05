@@ -1,0 +1,1 @@
+ /home/ale_siesta/Principios_AlejandroSerrano/app_ajedrez/app_mobile/.dart_tool/flutter_build/f035cc8540f9cee598c2dc754ba1ad4d/dart_build_result.json: 

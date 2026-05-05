@@ -1,3 +1,0 @@
-interface Dispositivo{
-void encender();
-}

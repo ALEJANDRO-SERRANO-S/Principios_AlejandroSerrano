@@ -1,3 +1,0 @@
-interface Figura{
-int getArea();
-}

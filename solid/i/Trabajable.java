@@ -1,3 +1,0 @@
-interface Trabajable{
-void trabajar();
-}

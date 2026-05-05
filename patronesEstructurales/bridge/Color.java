@@ -1,3 +1,0 @@
-interface Color {
-	void aplicar();
-}
