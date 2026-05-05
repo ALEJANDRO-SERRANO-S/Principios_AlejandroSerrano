@@ -1,0 +1,1 @@
+ /home/ale_siesta/app_ajedrez/app_mobile/.dart_tool/flutter_build/0ae69adf004b62593a4ed3d3b99a92e2/native_assets.json: 
